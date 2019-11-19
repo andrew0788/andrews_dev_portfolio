@@ -1,3 +1,33 @@
+## Portfolio Site Created using react
+
+## TODO
+
+Draw Out Wire Frame
+
+add Basic information
+  Photo
+  name
+  location
+  bio
+  Social Media Links
+
+add Projects
+  Coffee Snob
+  BlackJack
+  TTitD
+    For Each
+      Photo
+      Tech used
+      Description
+      link to GitHub and live page
+
+add Skills
+add Link to Resume
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
