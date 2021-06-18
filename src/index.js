@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import 'semantic-ui-css';
+import 'semantic-ui-react';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
